@@ -1,4 +1,11 @@
-## IPyLogbook : A server-based IPython Notebook data analysis and documentation system ##
+## IPyLogbook ##
+#### A server-based IPython Notebook data documentation and analysis system ####
+
+IPyLogbook is a server-based system for documentating and analyzing
+experiment data via the web-browser based IPython Notebook framework.
+This project is very much in its infancy and will likely evolve
+greatly in the near future to be more general, flexibly, and
+deployable (to say nothing of documented).
 
 
 ### License and disclaimer ###
